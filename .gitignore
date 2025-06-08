@@ -1,11 +1,24 @@
-# Binárky a výstupy
+# Build folders
 bin/
 obj/
+publish/
+
+# Executables and libraries
 *.exe
-*.log
+*.dll
 *.pdb
+*.log
+
+# Visual Studio
 *.user
 *.suo
-*.cache
-*.vs/
-publish/
+.vs/
+
+# Output
+*.zip
+*.msi
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/

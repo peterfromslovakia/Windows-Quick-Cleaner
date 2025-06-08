@@ -1,5 +1,0 @@
-D:\SafeCleaner\SafeCleaner\SafeCleaner\obj\Debug\net8.0-windows\win-x64\App.g.cs
-D:\SafeCleaner\SafeCleaner\SafeCleaner\obj\Debug\net8.0-windows\win-x64\SafeCleaner_MarkupCompile.cache
-D:\SafeCleaner\SafeCleaner\SafeCleaner\obj\Debug\net8.0-windows\win-x64\SafeCleaner.csproj.AssemblyReference.cache
-D:\SafeCleaner\SafeCleaner\SafeCleaner\obj\Debug\net8.0-windows\win-x64\MainWindow.baml
-D:\SafeCleaner\SafeCleaner\SafeCleaner\obj\Debug\net8.0-windows\win-x64\MainWindow.g.cs

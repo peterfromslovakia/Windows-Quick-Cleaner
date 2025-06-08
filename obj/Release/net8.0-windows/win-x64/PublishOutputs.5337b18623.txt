@@ -1,2 +1,0 @@
-D:\SafeCleaner\SafeCleaner\SafeCleaner\bin\Release\net8.0-windows\win-x64\publish\SafeCleaner.pdb
-D:\SafeCleaner\SafeCleaner\SafeCleaner\bin\Release\net8.0-windows\win-x64\publish\SafeCleaner.exe

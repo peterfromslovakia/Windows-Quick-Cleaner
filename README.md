@@ -4,6 +4,12 @@ A fast and efficient desktop tool to clean temporary files and optimize your Win
 Built with C# and WPF (MahApps.Metro UI).
 
 ![Screenshot](screenshot.png)
+## 🔽 Download
+
+You can download the prebuilt executable below:
+
+- [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk)
+> Note: GitHub does not support uploading `.exe` files larger than 100 MB.
 
 ## ✨ Features
 

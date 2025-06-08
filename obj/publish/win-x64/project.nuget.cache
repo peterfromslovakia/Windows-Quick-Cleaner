@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALBigrZydrw=",
+  "success": true,
+  "projectFilePath": "D:\\SafeCleaner\\SafeCleaner\\SafeCleaner\\SafeCleaner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peto\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.15\\microsoft.netcore.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\Peto\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\Peto\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.15\\microsoft.aspnetcore.app.runtime.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+﻿<metro:MetroWindow x:Class="SafeCleaner.MainWindow"
+                   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                   xmlns:metro="http://metro.mahapps.com/winfx/xaml/controls"
+                   Title="Windows Quick Cleaner"
+                   ResizeMode="CanResize"
+                   Width="800" Height="600"
+                   WindowStartupLocation="CenterScreen"
+                   GlowBrush="SteelBlue"
+                   Background="{DynamicResource MahApps.Brushes.Background}"
+                   Foreground="{DynamicResource MahApps.Brushes.Text}">
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <StackPanel Grid.Row="0" Margin="0,0,0,10" HorizontalAlignment="Center">
+            <TextBlock Text="Windows temp quick Cleaner" FontSize="28" FontWeight="Bold"/>
+            <TextBlock Text="A fast and efficient tool to clean temporary files and optimize your system." 
+                       FontSize="14" Opacity="0.7"/>
+        </StackPanel>
+
+        <!-- Main Cleaning Options -->
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <!-- Checkboxes -->
+            <StackPanel HorizontalAlignment="Center">
+                <CheckBox x:Name="chkSoftwareDistribution" 
+                          Content="SoftwareDistribution (Windows Update Cache)" 
+                          FontSize="16" Margin="5"
+                          Width="400" HorizontalContentAlignment="Left"/>
+                <CheckBox x:Name="chkWindowsTemp" 
+                          Content="Windows Temp (System Temp Files)" 
+                          FontSize="16" Margin="5"
+                          Width="400" HorizontalContentAlignment="Left"/>
+                <CheckBox x:Name="chkAppDataTemp" 
+                          Content="AppData Local Temp (User Temp Files)" 
+                          FontSize="16" Margin="5"
+                          Width="400" HorizontalContentAlignment="Left"/>
+            </StackPanel>
+
+            <!-- Buttons -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+                <Button x:Name="btnClean" Content="Clean Selected" Width="140" Margin="10" Click="btnClean_Click"/>
+                <Button x:Name="btnShowLog" Content="Show Log" Width="140" Margin="10" Click="btnShowLog_Click"/>
+                <Button x:Name="btnExit" Content="Exit" Width="140" Margin="10" Click="btnExit_Click"/>
+            </StackPanel>
+
+            <!-- Result -->
+            <Border Padding="10" Background="#2A2A2A" CornerRadius="5" Margin="0,10,0,0" Width="700">
+                <ScrollViewer Height="200">
+                    <RichTextBox x:Name="txtResult" IsReadOnly="True" FontFamily="Consolas" FontSize="14"/>
+                </ScrollViewer>
+            </Border>
+
+            <!-- ProgressRing -->
+            <metro:ProgressRing x:Name="progressRing" Width="40" Height="40" Margin="0,10,0,0" 
+                                IsActive="False" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <!-- Footer -->
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center">
+            <TextBlock Text="Created by Peter Obala" FontSize="12" Foreground="Gray"/>
+            <TextBlock FontSize="12" Foreground="LightBlue" TextDecorations="Underline" Cursor="Hand"
+                       MouseDown="OpenWebsite" Width="137" Text="Click to visit my website"/>
+        </StackPanel>
+    </Grid>
+</metro:MetroWindow>

@@ -1,0 +1,246 @@
+Starting cleanup...
+
+🧹 Cleaning directory: C:\Windows\SoftwareDistribution
+
+🧹 Cleaning directory: C:\Windows\Temp
+❌ Ignored (Locked): C:\Windows\Temp\DisplayLink
+❌ Ignored (Locked): C:\Windows\Temp\DELL-20250607-0731.log
+❌ Ignored (Locked): C:\Windows\Temp\DisplayLink\DisplayLinkUI.log
+
+🧹 Cleaning directory: C:\Users\Peto\AppData\Local\Temp
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\0bc8eec1-2ea0-4fcb-97e4-a804c90befe1
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\22510306-623d-4562-bb30-620814b770e0
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73.scratch
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\43f4743a-e66e-45ba-948d-e2db063b9033
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\55ee3a34-d222-4d01-81ce-0d689e0396b5
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\66666f8b-8eee-4ee9-a3ea-1fcd7a9d818c
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\949445c5-5c27-4fae-9006-fd0598efded9
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\c597bb76-4092-4cb6-b0e7-660ef021dbf3
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\fd395d5f-1a71-4cad-806e-c8cd4f898566
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\MSBuildTemp
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\NuGetScratch
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\Roslyn
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\SmartScreen
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VBCSCompiler
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSFeedbackIntelliCodeLogs
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSFeedbackPerfWatsonData
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSGitHubCopilotLogs
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSTelem.Out
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\WPF
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\1DEF.tmp
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\24b8c134-d063-41e3-9198-2b15b5529d71.tmp
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\386c915a-71d4-4f0f-926d-4da6f3d290f8.tmp
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\51B4.tmp
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\757.tmp
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\80dfe7e6-8b57-4a50-ab1e-3a744a2514f4.tmp
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\8B18.tmp
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\A5F0.tmp
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\Microsoft.NET.Workload_15236_20250607_230444_263.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\Microsoft.NET.Workload_22140_20250607_225045_014.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\Microsoft.NET.Workload_26184_20250607_224837_905.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\Microsoft.NET.Workload_4320_20250607_225751_579.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\~DF3FA03720375E3398.TMP
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73\lock
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73\sc.kernel.1.etl
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73\sc.user_injected.1.etl
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73\sc.user_paged.1.etl
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\315EF1CD-78E8-4FA1-8888-A3C673EABE73.scratch\lock
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20250607_203812_VS.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20250607_204220_VS.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20250607_204815_VS.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20250607_205245_VS.log
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20250607_210048_VS.log
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSFeedbackPerfWatsonData\202506072041_d17.14_17.14.36109.1_25348_91880f94-87d6-4601-b54c-e6cd00e13c1a.tcdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSFeedbackPerfWatsonData\202506072044_d17.14_17.14.36109.1_23708_d2b60632-a23c-474c-870b-5363b6b1f189.tcdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSFeedbackPerfWatsonData\202506072048_d17.14_17.14.36109.1_6196_3a0c828c-bfb3-40f1-ae99-d123f959fe00.tcdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSFeedbackPerfWatsonData\202506072058_d17.14_17.14.36109.1_1096_f84b4377-d679-4c77-a03f-f0a3d8f41bdd.tcdb
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSGitHubCopilotLogs\20250607_203815.486_VSGitHubCopilot.chat.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSGitHubCopilotLogs\20250607_204225.004_VSGitHubCopilot.chat.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSGitHubCopilotLogs\20250607_204819.894_VSGitHubCopilot.chat.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSGitHubCopilotLogs\20250607_205034.578_VSGitHubCopilot.chat.log
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSGitHubCopilotLogs\20250607_210051.869_VSGitHubCopilot.chat.log
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.LSPClient.Microsoft.CodeAnalysis.Editor.Implementation.LanguageClient.AlwaysActivateInProcLanguageClient.FATP.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.LSPClient.Microsoft.VisualStudio.Completions.CopilotLanguageClient.ACUY.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.LSPClient.Microsoft.VisualStudio.IntelliCode.Refactorings.LanguageServerClient.CSharpLanguageClient.BMGV.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.LSPClient.Microsoft.VisualStudio.LanguageServices.Xaml.XamlInProcLanguageClient.CKEH.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.LSPClient.PlatformLog.SYME.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.CTKJ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManagerHotReloadHelper.GIDG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionResourceDictionaryStore.TUGO.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.Commands.Client.Services.RemoteCommandsHotReloadHelper.QZAK.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.Copilot.Chat.Client.Service.0.3.BrokeredService.ICMX.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.Copilot.TokenManager.Service.0.3.BrokeredService.PRDE.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.XKHD.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.LanguageServices.SolutionAssetProvider.BrokeredService.VXLW.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.Platform.WindowManagement.RemoteToolWindowHotReloadHelper.UNVZ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.PlatformUI.UIContextRules.ContextRuleMonitorPackage.NDJZ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.Services.ServiceBroker.GlobalHubClientPackage.YQFD.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Microsoft.VisualStudio.Services.ServiceBroker.ServiceSectionMetadataHotReloadHelper.VOLI.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Roslyn.AlwaysActivateInProcLanguageClient.1.MWGY.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS3358AB09.Roslyn.XamlInProcLanguageClient.2.EDIG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.LSPClient.Microsoft.CodeAnalysis.Editor.Implementation.LanguageClient.AlwaysActivateInProcLanguageClient.YJEJ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.LSPClient.Microsoft.VisualStudio.Completions.CopilotLanguageClient.LCXX.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.LSPClient.Microsoft.VisualStudio.IntelliCode.Refactorings.LanguageServerClient.CSharpLanguageClient.CZHH.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.LSPClient.Microsoft.VisualStudio.LanguageServices.Xaml.XamlInProcLanguageClient.HWWK.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.LSPClient.PlatformLog.QQET.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.NZIZ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManagerHotReloadHelper.SPWC.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionResourceDictionaryStore.AHEO.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.Commands.Client.Services.RemoteCommandsHotReloadHelper.NXYE.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.Copilot.Chat.Client.Service.0.3.BrokeredService.IXMN.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.Copilot.TokenManager.Service.0.3.BrokeredService.EUVL.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.EHWG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.LanguageServices.SolutionAssetProvider.BrokeredService.DCSY.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.Platform.WindowManagement.RemoteToolWindowHotReloadHelper.YNUO.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.PlatformUI.UIContextRules.ContextRuleMonitorPackage.YLWZ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.Services.ServiceBroker.GlobalHubClientPackage.RQQB.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Microsoft.VisualStudio.Services.ServiceBroker.ServiceSectionMetadataHotReloadHelper.INHY.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Roslyn.AlwaysActivateInProcLanguageClient.1.HBFU.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS34DE25E7.Roslyn.XamlInProcLanguageClient.2.EYBG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.LSPClient.Microsoft.CodeAnalysis.Editor.Implementation.LanguageClient.AlwaysActivateInProcLanguageClient.OXRO.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.LSPClient.Microsoft.VisualStudio.Completions.CopilotLanguageClient.EQQP.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.LSPClient.Microsoft.VisualStudio.IntelliCode.Refactorings.LanguageServerClient.CSharpLanguageClient.BEMO.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.LSPClient.Microsoft.VisualStudio.LanguageServices.Xaml.XamlInProcLanguageClient.DRAR.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.LSPClient.PlatformLog.YIHC.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.ZYZI.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManagerHotReloadHelper.MDNE.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionResourceDictionaryStore.RDAA.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.Commands.Client.Services.RemoteCommandsHotReloadHelper.PFKW.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.Copilot.Chat.Client.Service.0.3.BrokeredService.PZAJ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.Copilot.TokenManager.Service.0.3.BrokeredService.XEQG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.GNRU.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.LanguageServices.SolutionAssetProvider.BrokeredService.JYPS.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.Platform.WindowManagement.RemoteToolWindowHotReloadHelper.FVAF.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.PlatformUI.UIContextRules.ContextRuleMonitorPackage.FPJK.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.Services.ServiceBroker.GlobalHubClientPackage.TRLN.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Microsoft.VisualStudio.Services.ServiceBroker.ServiceSectionMetadataHotReloadHelper.QELB.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Roslyn.AlwaysActivateInProcLanguageClient.1.BDEA.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VS54FD1A6D.Roslyn.XamlInProcLanguageClient.2.FBKC.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.LSPClient.Microsoft.CodeAnalysis.Editor.Implementation.LanguageClient.AlwaysActivateInProcLanguageClient.ABKL.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.LSPClient.Microsoft.VisualStudio.Completions.CopilotLanguageClient.GGNQ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.LSPClient.Microsoft.VisualStudio.IntelliCode.Refactorings.LanguageServerClient.CSharpLanguageClient.PXHT.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.LSPClient.Microsoft.VisualStudio.LanguageServices.Xaml.XamlInProcLanguageClient.UFKN.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.LSPClient.PlatformLog.SRBJ.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.KFAD.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManagerHotReloadHelper.CDHV.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionResourceDictionaryStore.EPBF.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Commands.Client.Services.RemoteCommandsHotReloadHelper.MIKG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Copilot.Chat.Client.Service.0.3.BrokeredService.JTUG.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Copilot.TokenManager.Service.0.3.BrokeredService.HGEN.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.EWFN.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.LanguageServices.SolutionAssetProvider.BrokeredService.UTWS.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Platform.WindowManagement.RemoteToolWindowHotReloadHelper.JLBX.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.PlatformUI.UIContextRules.ContextRuleMonitorPackage.QOBN.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Services.LogHubReaperService.HQFO.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Services.ServiceBroker.GlobalHubClientPackage.SIRI.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Microsoft.VisualStudio.Services.ServiceBroker.ServiceSectionMetadataHotReloadHelper.BMGH.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Roslyn.AlwaysActivateInProcLanguageClient.1.EEOS.svclog
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\VSLogs\VSC362210A.Roslyn.XamlInProcLanguageClient.2.VWVB.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.LSPClient.Microsoft.CodeAnalysis.Editor.Implementation.LanguageClient.AlwaysActivateInProcLanguageClient.MLAO.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.LSPClient.Microsoft.VisualStudio.Completions.CopilotLanguageClient.PVXA.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.LSPClient.Microsoft.VisualStudio.IntelliCode.Refactorings.LanguageServerClient.CSharpLanguageClient.UPTZ.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.LSPClient.Microsoft.VisualStudio.LanguageServices.Xaml.XamlInProcLanguageClient.PMYV.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.LSPClient.PlatformLog.SGTX.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManager.RVVV.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionPartManagerHotReloadHelper.EMFC.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.Internal.VisualStudio.Extensibility.Framework.ExtensionResourceDictionaryStore.FETL.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.Commands.Client.Services.RemoteCommandsHotReloadHelper.FFOT.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.Copilot.Chat.Client.Service.0.3.BrokeredService.LVTK.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.Copilot.TokenManager.Service.0.3.BrokeredService.KSOG.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.GlobalBrokeredServiceContainer.LYHJ.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.LanguageServices.SolutionAssetProvider.BrokeredService.RFQE.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.Platform.WindowManagement.RemoteToolWindowHotReloadHelper.NZVL.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.PlatformUI.UIContextRules.ContextRuleMonitorPackage.SVYK.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.Services.ServiceBroker.GlobalHubClientPackage.LPWZ.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Microsoft.VisualStudio.Services.ServiceBroker.ServiceSectionMetadataHotReloadHelper.MUFF.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Roslyn.AlwaysActivateInProcLanguageClient.1.BGNX.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSLogs\VSEDFFCA24.Roslyn.XamlInProcLanguageClient.2.CIWS.svclog
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\SmartScreen\RemoteData\LastPing
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings_1.0-7e3544113374bc2769af5f67e125ab81de1b4b64c07fe68e2a7bc03646c85dfc
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\6738203a36984991bbf49d0b7d844e3d22940\6738203a36984991bbf49d0b7d844e3d22940.edb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\6738203a36984991bbf49d0b7d844e3d22940\6738203a36984991bbf49d0b7d844e3d22940.jfm
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\6738203a36984991bbf49d0b7d844e3d22940\tmp.edb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\+yFQjeDCiPO2IFO+YW78UttaIljOUlo=\D3DCompiler_47_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\+yFQjeDCiPO2IFO+YW78UttaIljOUlo=\PenImc_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\+yFQjeDCiPO2IFO+YW78UttaIljOUlo=\PresentationNative_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\+yFQjeDCiPO2IFO+YW78UttaIljOUlo=\vcruntime140_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\+yFQjeDCiPO2IFO+YW78UttaIljOUlo=\wpfgfx_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\NSxpHkRUN7rpN1XD4_1Unahm_HzwIWM=\D3DCompiler_47_cor3.dll
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\NSxpHkRUN7rpN1XD4_1Unahm_HzwIWM=\PenImc_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\NSxpHkRUN7rpN1XD4_1Unahm_HzwIWM=\PresentationNative_cor3.dll
+✅ Deleted: C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\NSxpHkRUN7rpN1XD4_1Unahm_HzwIWM=\vcruntime140_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\NSxpHkRUN7rpN1XD4_1Unahm_HzwIWM=\wpfgfx_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\wNro9lo8FsYPqsyBxXZWi1qgYu6gyAo=\D3DCompiler_47_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\wNro9lo8FsYPqsyBxXZWi1qgYu6gyAo=\PenImc_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\wNro9lo8FsYPqsyBxXZWi1qgYu6gyAo=\PresentationNative_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\wNro9lo8FsYPqsyBxXZWi1qgYu6gyAo=\vcruntime140_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\wNro9lo8FsYPqsyBxXZWi1qgYu6gyAo=\wpfgfx_cor3.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\+yFQjeDCiPO2IFO+YW78UttaIljOUlo=\Assets\SafeCleaner_Icon.ico
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\NSxpHkRUN7rpN1XD4_1Unahm_HzwIWM=\Assets\SafeCleaner_Icon.ico
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\.net\SafeCleaner\wNro9lo8FsYPqsyBxXZWi1qgYu6gyAo=\Assets\SafeCleaner_Icon.ico
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\1\FSharp.Editor.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\2\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.CSharp.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.CSharp.Features.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.EditorFeatures.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.ExternalAccess.AspNetCore.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.ExternalAccess.FSharp.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.Features.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.VisualBasic.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.CodeAnalysis.Workspaces.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\3\Microsoft.VisualStudio.LanguageServices.Xaml.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\4\ILLink.CodeFixProvider.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\4\ILLink.RoslynAnalyzer.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\53af0cf75fa941e8b77b8551402ab439\5\Microsoft.VisualStudio.DesignTools.XamlLanguageService.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\ba6336ba3cca4390ac69cc3f6780f8db\1\ILLink.CodeFixProvider.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\ba6336ba3cca4390ac69cc3f6780f8db\1\ILLink.RoslynAnalyzer.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\1\ILLink.CodeFixProvider.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\1\ILLink.RoslynAnalyzer.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\2\FSharp.Editor.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\3\Microsoft.CodeAnalysis.TypeScript.EditorFeatures.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.CSharp.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.CSharp.Features.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.EditorFeatures.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.ExternalAccess.AspNetCore.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.ExternalAccess.FSharp.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.Features.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.VisualBasic.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.CodeAnalysis.Workspaces.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\4\Microsoft.VisualStudio.LanguageServices.Xaml.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\Roslyn\AnalyzerAssemblyLoader\cf71c15688014768b188991a7d35586f\5\Microsoft.VisualStudio.DesignTools.XamlLanguageService.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VBCSCompiler\AnalyzerAssemblyLoader\518e8cb5236f4fe68f50703240957196\1\ILLink.CodeFixProvider.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VBCSCompiler\AnalyzerAssemblyLoader\518e8cb5236f4fe68f50703240957196\1\ILLink.RoslynAnalyzer.dll
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.build.framework.ni.pdb\94c76711ccf5a51e8b24e3f9a58722a21\Microsoft.Build.Framework.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.build.ni.pdb\fd7c03a6fff87b48429caa83837f4c691\Microsoft.Build.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.internal.visualstudio.interop.ni.pdb\790f0da2d41ed3fcfcc33a3b14a26f631\Microsoft.Internal.VisualStudio.Interop.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.commonide.ni.pdb\4fb0876c9c88f6947062bad467b8e10c1\Microsoft.VisualStudio.CommonIDE.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.graphmodel.ni.pdb\e48037b7e4304b0ccc7741082c797f031\Microsoft.VisualStudio.GraphModel.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.graphproviderpackage.ni.pdb\1be154ff3c62ea526a7fd4dc923704f11\Microsoft.VisualStudio.GraphProviderPackage.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.interop.ni.pdb\63f886d2fce54cc97117b47c9b12be6e1\Microsoft.VisualStudio.Interop.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.projectsystem.vs.implementation.ni.pdb\99602db8d41482d03f72b68d18bc3baa1\Microsoft.VisualStudio.ProjectSystem.VS.Implementation.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.projectsystem.vs.ni.pdb\75798f06d85d325d8c0004ce18aa28461\Microsoft.VisualStudio.ProjectSystem.VS.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.shell.15.0.ni.pdb\e32ec943a383b02faeba1a6044443ab71\Microsoft.VisualStudio.Shell.15.0.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.shell.framework.ni.pdb\dcd9180c43ac5127391da428c8919f5f1\Microsoft.VisualStudio.Shell.Framework.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.shell.treenavigation.graphprovider.ni.pdb\d2e3cf36c3fcbf97e54a607ac651b87f1\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.shell.treenavigation.hierarchyprovider.ni.pdb\7f2fc1fc9729ea2edcdf26107609a29f1\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.shell.ui.internal.ni.pdb\1dfd91f848aaeede0a84bd096b9dcb311\Microsoft.VisualStudio.Shell.UI.Internal.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.threading.ni.pdb\a9a2af6b60ed58236f9087bc15cb219b1\Microsoft.VisualStudio.Threading.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\microsoft.visualstudio.utilities.ni.pdb\7b40d06e995003997e164ebe0031d3321\Microsoft.VisualStudio.Utilities.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\mscorlib.ni.pdb\8967064a93c70884749ad00de74dd7a11\mscorlib.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\system.core.ni.pdb\cf9616e40d9e7e4d682f88f6d57251561\System.Core.ni.pdb
+❌ Ignored (Locked): C:\Users\Peto\AppData\Local\Temp\VSTelem\NgenPdb\windowsbase.ni.pdb\0aa74ca0effe60ff0a62b8c41262d61d1\WindowsBase.ni.pdb
+
+✅ Cleanup completed.
+Total Deleted: 114
+Total Skipped (Locked): 121

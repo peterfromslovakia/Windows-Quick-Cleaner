@@ -8,8 +8,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
 
     <ApplicationIcon>Assets\SafeCleaner_Icon.ico</ApplicationIcon>
-
-    <!-- ⛔ Toto vypne duplicitné generovanie AssemblyInfo -->
+    
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   </PropertyGroup>
 

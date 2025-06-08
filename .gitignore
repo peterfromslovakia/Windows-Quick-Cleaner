@@ -1,0 +1,11 @@
+# Binárky a výstupy
+bin/
+obj/
+*.exe
+*.log
+*.pdb
+*.user
+*.suo
+*.cache
+*.vs/
+publish/

@@ -10,8 +10,8 @@ using System.Windows;
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-// 🎨 Resource info pre WPF
+
 [assembly: ThemeInfo(
-    ResourceDictionaryLocation.None,             // kde sú špecifické zdroje pre tému
-    ResourceDictionaryLocation.SourceAssembly    // kde sú všeobecné zdroje
+    ResourceDictionaryLocation.None,             
+    ResourceDictionaryLocation.SourceAssembly    
 )]

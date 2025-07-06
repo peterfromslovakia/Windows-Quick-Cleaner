@@ -9,11 +9,11 @@ Built with C# and WPF (MahApps.Metro UI).
 
 You can download the prebuilt executables below:
 
-- [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk) – full GUI version  
-- [`clean_update.bat`](clean_update.bat) – CMD script (lightweight alternative)
+- [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk) – full GUI version
+- [clean_update.bat (Mega.nz)](https://mega.nz/file/DU1nT1yJ#VLOaWTYzMYG_p1q_BqjxdhzOfpKzYhFYgHH6GLd03hg) – CMD script (lightweight alternative)
 
-> 📌 Note: GitHub does not support uploading `.exe` files larger than 100 MB.  
-> 💡 Both versions can be launched directly from USB – no installation needed.
+> ⚠️ Note: GitHub does not support uploading `.exe` files larger than 100 MB.  
+> ✅ Both versions can be launched directly from USB – no installation needed.
 
 ---
 
@@ -25,13 +25,13 @@ You can download the prebuilt executables below:
 - Graphical version with intuitive dark UI
 - CMD script version for quick cleanup or tech users
 - ProgressRing animation (GUI version)
-- Logging supported (log.txt)
+- Logging supported (`log.txt`)
 
 ---
 
-## 🖱️ How to use (GUI version)
+## 🖱 How to use (GUI version)
 
-1. Run `SafeCleaner.exe` **as administrator** (Right-click → Run as admin)  
+1. Run `SafeCleaner.exe` as administrator (right-click → Run as admin)  
 2. Select the locations to clean using the checkboxes  
 3. Click **Clean Selected**  
 4. View logs with **Show Log**  
@@ -39,14 +39,14 @@ You can download the prebuilt executables below:
 
 ---
 
-## 🔧 CMD version – no GUI needed
+## 🖥 CMD version – no GUI needed
 
 For advanced users or quick use from USB stick:
 
-- Use the [`clean_update.bat`](clean_update.bat) script  
+- Use the `clean_update.bat` script  
 - Cleans the same temp locations as the GUI  
 - No UI, just a fast and silent cleanup  
-- Run as administrator (Right-click → Run as admin)  
+- Run as administrator (right-click → Run as admin)  
 - Auto-closes after completion
 
 ![CMD Screenshot](screenshot_for_cmd.png)
@@ -60,11 +60,11 @@ Program je vytvorený v jazyku **C# (WPF)** a má moderné používateľské roz
 
 ### Funkcie:
 
-- Vymazanie cache po aktualizáciách Windows (adresár `SoftwareDistribution`)  
-- Vyčistenie systémových a používateľských dočasných súborov  
-- Verzia s GUI aj alternatíva vo forme `.bat` skriptu  
-- Animovaný ukazovateľ priebehu  
-- Podpora logovania (`log.txt`)  
+- Vymazanie cache po aktualizáciách Windows (adresár `SoftwareDistribution`)
+- Vyčistenie systémových a používateľských dočasných súborov
+- Verzia s GUI aj alternatíva vo forme `.bat` skriptu
+- Animovaný ukazovateľ priebehu
+- Podpora logovania (`log.txt`)
 - Žiadna inštalácia – len spustíš `.exe` alebo `.bat`
 
 ---

@@ -4,30 +4,52 @@ A fast and efficient desktop tool to clean temporary files and optimize your Win
 Built with C# and WPF (MahApps.Metro UI).
 
 ![Screenshot](screenshot.png)
+
+---
+
 ## 🔽 Download
 
-You can download the prebuilt executable below:
+You can download the prebuilt executables below:
 
-- [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk)
-> Note: GitHub does not support uploading `.exe` files larger than 100 MB.
+- 💻 [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk) – full GUI version
+- ⚙️ [clean_update.bat](clean_update.bat) – CMD script (lightweight alternative)
+
+> ⚠️ GitHub does not support uploading `.exe` files larger than 100 MB.  
+> ✅ Both versions can be launched directly from USB – **no installation needed**.
+
+---
 
 ## ✨ Features
 
 - Clean Windows Update cache (`SoftwareDistribution`)
 - Clean system temporary files (`C:\Windows\Temp`)
 - Clean user temporary files (`AppData\Local\Temp`)
-- Intuitive and clean dark UI
-- ProgressRing animation
-- Logging supported (text file)
+- ✅ Graphical version with intuitive dark UI
+- ✅ CMD script version for quick cleanup or tech users
+- ProgressRing animation (GUI version)
+- Logging supported (log.txt)
 
-## 💻 How to use
+---
 
-1. Run `SafeCleaner.exe` **as administrator**
-2. Select the locations to clean
+## 💻 How to use (GUI version)
+
+1. Run `SafeCleaner.exe` **as administrator** (Right-click → Run as admin)
+2. Select the locations to clean using the checkboxes
 3. Click **Clean Selected**
 4. View logs with **Show Log**
+5. Optional: Copy the app to a USB key and launch from any Windows 10/11 PC
 
-> No installation needed. Just run the `.exe`.
+---
+
+## ⚙️ CMD version – no GUI needed
+
+For advanced users or quick use from USB stick:
+
+- Use the [clean_update.bat](clean_update.bat) script
+- Cleans the same temp locations as the GUI
+- No UI, just a fast and silent cleanup
+- Run **as administrator** (Right-click → Run as admin)
+- Auto-closes after completion
 
 ---
 
@@ -38,11 +60,12 @@ Program je vytvorený v jazyku **C# (WPF)** a má moderné používateľské roz
 
 ### Funkcie:
 
-- Vymazanie cache po aktualizáciách Windows (adresár `SoftwareDistribution`)
+- Vymazanie cache po aktualizáciách Windows (`SoftwareDistribution`)
 - Vyčistenie systémových a používateľských dočasných súborov
+- Verzia s GUI aj alternatíva vo forme `.bat` skriptu
 - Animovaný ukazovateľ priebehu
-- Podpora logovania
-- Žiadna inštalácia – len spustíš `.exe` súbor
+- Podpora logovania (súbor `log.txt`)
+- Žiadna inštalácia – len spustíš `.exe` alebo `.bat`
 
 ---
 
@@ -50,6 +73,3 @@ Program je vytvorený v jazyku **C# (WPF)** a má moderné používateľské roz
 
 **Created by Peter Obala**  
 🔗 [https://peterfromslovakia.github.io](https://peterfromslovakia.github.io)
-
----
-

